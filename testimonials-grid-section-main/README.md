@@ -1,4 +1,4 @@
-## Welcome! ✋🤖
+## Welcome! ✋
 
 # Frontend Mentor - Testimonials Grid Section SOLUTION 🚀💯
 
